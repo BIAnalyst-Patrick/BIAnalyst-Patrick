@@ -44,6 +44,10 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 ---
 
 ### **5. E-commerce Order Analysis**
+
+    ![Dashboard](https://github.com/user-attachments/assets/af25e8d5-2ae0-46a0-b02d-a8070af4cea5)
+
+  
 **Project Overview**: This project analyzed **31,047 sales records** to uncover **customer behavior**, **regional sales performance**, and the impact of various sales channels on overall performance. The goal was to provide **data-driven recommendations** for marketing strategies and resource allocation.
 
 - **Problem**: Despite increased website traffic, the business was unable to identify which **customer segments**, **sales channels**, and **regions** were driving the most sales. It was unclear where to focus marketing resources to maximize ROI.
@@ -70,6 +74,12 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 ---
 
 ### **6. Campaign Analysis**
+
+    ![Marketing](https://github.com/user-attachments/assets/ca748c80-fe4a-4a30-9cb8-4e4f7fd75113)
+
+    ![signups and claims](https://github.com/user-attachments/assets/286223f2-53bf-476a-a192-67294ab74104)
+
+
 **Project Overview**: This project involved an in-depth analysis of the performance of **57 marketing campaigns** from **2019 to 2023** to optimize **budget allocation** for the **2024 marketing campaigns**. The primary goal was to increase **signups** and raise **brand awareness** for Row Health.
 
 - **Problem**: Row Health was struggling to allocate its marketing budget efficiently. With a high volume of campaigns, it was unclear which **campaigns**, **channels**, and **customer segments** were most effective in driving **customer signups** and **brand awareness**.
