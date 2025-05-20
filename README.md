@@ -43,6 +43,65 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 
 ---
 
+### **5. E-commerce Order Analysis**
+**Project Overview**: This project analyzed **31,047 sales records** to uncover **customer behavior**, **regional sales performance**, and the impact of various sales channels on overall performance. The goal was to provide **data-driven recommendations** for marketing strategies and resource allocation.
+
+- **Problem**: Despite increased website traffic, the business was unable to identify which **customer segments**, **sales channels**, and **regions** were driving the most sales. It was unclear where to focus marketing resources to maximize ROI.
+- **Action**: Analyzed large datasets of sales and customer demographics using **Microsoft Excel**. Created a **comprehensive dashboard** that visualized key performance metrics such as **sales by region**, **customer demographics**, **sales trends**, and **operational efficiency**.
+- **Result**: Found that **64% of orders** came from **women**, with **Emerging Adults (18-34)** as the dominant customer group. The analysis also revealed that **Maharashtra and Karnataka** were the top-performing regions, and that the business had a **92% delivery success rate**, indicating strong operational performance.
+- **Key Technologies**: **Microsoft Excel**, **Pivot Tables**, **Data Visualization**, **Dashboard Creation**
+- **Project Link**: [E-commerce Order Analysis](https://github.com/BIAnalyst-Patrick/E-commerce-Order-Analysis)
+
+---
+
+### **Key Insights**:
+1. **Women Drive Sales**: **64% of the total orders** came from women. **Targeting this demographic** more aggressively could boost sales by **10%**.
+2. **Emerging Adults Are the Key Demographic**: **Emerging Adults (18-34)** accounted for **40%** of orders. **Targeting this segment** could lead to a **15% increase** in sales.
+3. **Top Regions**: **Maharashtra** and **Karnataka** had the highest sales volume. **Targeted regional promotions** in these areas could increase sales by **8%**.
+
+---
+
+### **Recommendations & Business Impact**:
+1. **Focus on Women-Centric Marketing**: Women make up the majority of orders. Allocating more resources to **women-focused marketing campaigns** could yield **10% more sales**.
+2. **Leverage Social Media for Emerging Adults**: As the dominant customer segment, emerging adults should be targeted through **tailored promotions** and **loyalty programs**, potentially increasing sales by **15%**.
+3. **Regional Promotions in Top-Performing Areas**: Given the success in **Maharashtra** and **Karnataka**, focusing marketing campaigns on these regions can improve sales by **8%**.
+4. **Improving Operational Efficiency**: Ensure that the **92% delivery success rate** continues by optimizing logistics for underperforming regions.
+
+---
+
+### **6. Campaign Analysis**
+**Project Overview**: This project involved an in-depth analysis of the performance of **57 marketing campaigns** from **2019 to 2023** to optimize **budget allocation** for the **2024 marketing campaigns**. The primary goal was to increase **signups** and raise **brand awareness** for Row Health.
+
+- **Problem**: Row Health was struggling to allocate its marketing budget efficiently. With a high volume of campaigns, it was unclear which **campaigns**, **channels**, and **customer segments** were most effective in driving **customer signups** and **brand awareness**.
+- **Action**: Analyzed campaign performance data using **Excel** for metric calculations, **BigQuery** for data cleaning, and created **interactive visualizations** in **Tableau**. Key performance metrics such as **signup rate**, **cost per signup**, **click-through rate (CTR)**, and **cost per impression** were examined.
+- **Result**: The analysis showed that **Health For All** and **Social Media** campaigns had the highest **signup rates** and the lowest **cost per signup**. The recommendations were to **shift the budget towards** these high-performing campaigns, especially by reallocating funds from less effective platforms like **TV**.
+- **Key Technologies**: **Excel**, **Tableau**, **BigQuery**, **Data Analysis**
+- **Project Link**: [Campaign Analysis](https://github.com/BIAnalyst-Patrick/Campaign-Analysis)
+
+---
+
+### **Key Insights**:
+1. **Health For All Campaigns Lead Signup Rates**: These campaigns achieved a **2.08% signup rate**, far outperforming other categories. **Prioritize these campaigns** for next year.
+2. **Cost-Effective Campaigns**: **Social Media** and **Coverage Matters** campaigns had the **lowest cost per signup**. **Reallocate the marketing budget** from **TV** to **social media** for a more **cost-efficient strategy**.
+3. **High CTR for Email Campaigns**: **Health For All** email campaigns had the **highest CTR** at **50%**, far above the industry average. This indicates that **email marketing** in this category should be **expanded**.
+4. **Expensive TV Campaigns**: Despite being a high-investment channel, **TV campaigns** were the most **expensive per signup**. A **shift towards digital media** is recommended for **better ROI**.
+
+---
+
+### **Strategic Recommendations for Campaign Budget Allocation**:
+1. **Prioritize Health For All Campaigns**: Allocate more resources to **Health For All** campaigns, as they show the highest **signup rates** and **cost efficiency**.
+2. **Shift Budget from TV to Social Media**: **Social Media** campaigns perform better, with **15x more signups** than TV campaigns. Shift budget to maximize **digital media reach**.
+3. **Expand Email Campaigns**: Focus on **Health For All** email campaigns, which consistently outperform other email categories.
+4. **Improve Campaigns with Low CTR**: Investigate the **Golden Years Security** and **Family Coverage Plans** campaigns that showed low **CTR**. **Refine copywriting** and optimize **attribution** for better results.
+
+---
+
+### **Next Steps**:
+- **Improve Data Quality**: Integrate **revenue data** to calculate **campaign ROI** and include **campaign dates** for better time-based segmentation.
+- **Customer-Specific Segmentation**: Add dimensions like **plan type** and **state** to further refine campaign recommendations.
+- **Ongoing Monitoring**: Develop a **marketing dashboard** to monitor the effectiveness of these recommended budget allocations and campaigns.
+
+
 ### **1. INSURANCE COVERAGE AND USAGE ANALYSIS**
 
   ![Insurance_coverage_and_usage_dashboard](https://github.com/user-attachments/assets/c20e84d2-5e7a-4158-9ac7-62878c9a0660)
