@@ -44,6 +44,10 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 ---
 
 ### **1. INSURANCE COVERAGE AND USAGE ANALYSIS**
+
+  ![Insurance_coverage_and_usage_dashboard](https://github.com/user-attachments/assets/c20e84d2-5e7a-4158-9ac7-62878c9a0660)
+  
+
 **Project Overview**: This project focused on identifying the disparities in **insurance coverage** and **healthcare usage** across different **demographic** groups. 
 
 - **Problem**: **Income levels** significantly impacted the extent of **insurance coverage** and the **frequency of routine checkups**, especially in lower-income groups.
@@ -52,20 +56,14 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 - **Key Technologies**: **Python**, **SQL**, **Power BI**
 - **Project Link**: [Insurance Coverage and Usage Analysis](https://github.com/BIAnalyst-Patrick/Insurance-Coverage-and-Usage-Report)
 
----
-
-### **2. HEALTH INSURANCE COVERAGE AND ROUTINE CHECKUP ANALYSIS**
-**Project Overview**: This project examined how **health insurance coverage** impacts participation in **routine health checkups**, particularly across **different income groups**.
-
-- **Problem**: A significant percentage of individuals were not participating in routine health checkups due to lack of **insurance coverage** and financial constraints.
-- **Action**: Used **Power BI** for data visualization and **Python** for data processing to analyze coverage patterns and participation rates. Focused on income-based disparities.
-- **Result**: Identified that only **29%** of individuals participated in routine checkups, with much lower rates observed in lower-income groups. Recommendations were made for improving **healthcare accessibility** through policy adjustments and outreach.
-- **Key Technologies**: **Power BI**, **Python (Pandas)**, **Data Analysis**
-- **Project Link**: [Health Insurance Coverage and Routine Checkup Analysis](https://github.com/BIAnalyst-Patrick/Health-Insurance-Coverage-and-Routine-Checkup-Analysis)
 
 ---
 
-### **3. Sales Team & Product Performance Analysis**
+### **2. Sales Team & Product Performance Analysis**
+
+  ![dashboard](https://github.com/user-attachments/assets/f7ca4540-666c-4767-8656-5c1d55041c85)
+
+
 **Project Overview**: This project analyzed **sales performance** across regions, with a specific focus on improving the performance of the **East region**.
 
 - **Problem**: Despite a healthy **overall win rate**, the **East region** was underperforming compared to other regions, leading to a sales gap.
@@ -77,6 +75,15 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 ---
 
 ### **4. BMW’s Financial Health: A Comprehensive Analysis of Profit, Risk, and Growth**
+
+  ![image](https://github.com/user-attachments/assets/a40ff4e8-d558-4e50-897c-fe7124a887bc)
+
+  ![image](https://github.com/user-attachments/assets/9e7f9d9c-cf7f-49ff-97e3-0d13f9a8b5ad)
+
+  ![image](https://github.com/user-attachments/assets/97568cd9-926d-48fa-b7b8-844af0b9beae)
+
+
+    
 **Project Overview**: This financial analysis project focused on the **profitability**, **debt risk**, and **growth** trends of **BMW** from 2017 to 2024.
 
 - **Problem**: BMW faced challenges in **profitability** and was exposed to certain **financial risks**, which required an in-depth financial analysis to identify areas of concern.
