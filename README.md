@@ -75,9 +75,9 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 
 ### **6. Campaign Analysis**
 
-    ![Marketing](https://github.com/user-attachments/assets/ca748c80-fe4a-4a30-9cb8-4e4f7fd75113)
+![Marketing](https://github.com/user-attachments/assets/b4eb2ae2-c370-4713-9892-d7f19fc41573)
 
-    ![signups and claims](https://github.com/user-attachments/assets/286223f2-53bf-476a-a192-67294ab74104)
+![signups and claims](https://github.com/user-attachments/assets/d9d1dca0-626d-4912-83a4-35a2b450bb86)
 
 
 **Project Overview**: This project involved an in-depth analysis of the performance of **57 marketing campaigns** from **2019 to 2023** to optimize **budget allocation** for the **2024 marketing campaigns**. The primary goal was to increase **signups** and raise **brand awareness** for Row Health.
