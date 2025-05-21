@@ -1,6 +1,6 @@
 # Patrick Gichuki - Data Analyst | Turning Data into Profitable Business Insights 👋
 
-Welcome to my GitHub profile! I am **Patrick Gichuki**, a **Data Analyst** with a strong foundation in **accounting** and a passion for transforming data into actionable insights that drive smarter business decisions. I specialize in **data visualization**, **predictive analytics**, and **advanced modeling**, using tools such as **Python**, **SQL**, **Power BI**, and **Tableau**.
+Welcome to my GitHub profile! I am **Patrick Gichuki**, a **Data Analyst** with a strong foundation in **accounting** and a passion for transforming data into actionable insights that drive smarter business decisions. I specialize in **data visualization**, **predictive analytics**, and **advanced modeling**, using tools such as **Python**, **SQL**, **Power BI**, and **Excel**.
 
 With a mix of analytical rigor and business strategy, I bridge the gap between financial operations and data-driven decisions. My goal is to help businesses unlock the full potential of their data, turning insights into tangible, real-world results.
 
@@ -54,7 +54,8 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 - **Action**: Analyzed large datasets of sales and customer demographics using **Microsoft Excel**. Created a **comprehensive dashboard** that visualized key performance metrics such as **sales by region**, **customer demographics**, **sales trends**, and **operational efficiency**.
 - **Result**: Found that **64% of orders** came from **women**, with **Emerging Adults (18-34)** as the dominant customer group. The analysis also revealed that **Maharashtra and Karnataka** were the top-performing regions, and that the business had a **92% delivery success rate**, indicating strong operational performance.
 - **Key Technologies**: **Microsoft Excel**, **Pivot Tables**, **Data Visualization**, **Dashboard Creation**
-- **Project Link**: [E-commerce Order Analysis](https://github.com/BIAnalyst-Patrick/E-commerce-Order-Analysis)
+- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/E-commerce-Order-Analysis" target="_blank">E-commerce Order Analysis</a>
+
 
 ---
 
@@ -84,10 +85,11 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 **Project Overview**: This project involved an in-depth analysis of the performance of **57 marketing campaigns** from **2019 to 2023** to optimize **budget allocation** for the **2024 marketing campaigns**. The primary goal was to increase **signups** and raise **brand awareness** for Row Health.
 
 - **Problem**: Row Health was struggling to allocate its marketing budget efficiently. With a high volume of campaigns, it was unclear which **campaigns**, **channels**, and **customer segments** were most effective in driving **customer signups** and **brand awareness**.
-- **Action**: Analyzed campaign performance data using **Excel** for metric calculations, **BigQuery** for data cleaning, and created **interactive visualizations** in **Tableau**. Key performance metrics such as **signup rate**, **cost per signup**, **click-through rate (CTR)**, and **cost per impression** were examined.
+- **Action**: Analyzed campaign performance data using **Excel** for metric calculations, **BigQuery** for data cleaning, and created **interactive visualizations** in **Power BI**. Key performance metrics such as **signup rate**, **cost per signup**, **click-through rate (CTR)**, and **cost per impression** were examined.
 - **Result**: The analysis showed that **Health For All** and **Social Media** campaigns had the highest **signup rates** and the lowest **cost per signup**. The recommendations were to **shift the budget towards** these high-performing campaigns, especially by reallocating funds from less effective platforms like **TV**.
-- **Key Technologies**: **Excel**, **Tableau**, **BigQuery**, **Data Analysis**
-- **Project Link**: [Campaign Analysis](https://github.com/BIAnalyst-Patrick/Campaign-Analysis)
+- **Key Technologies**: **Excel**, **Power BI**, **BigQuery**, **Data Analysis**
+- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/Campaign-Analysis" target="_blank">Campaign Analysis</a>
+
 
 ---
 
@@ -124,7 +126,7 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 - **Action**: Cleaned and analyzed a dataset of 6,158 records using **Python** (Pandas), and **SQL** for data manipulation. Created interactive dashboards in **Power BI** to visualize trends and correlations.
 - **Result**: Provided insights revealing that **58.8% of the population** was insured, but significant gaps existed, particularly for lower-income individuals. Recommendations were made to improve insurance coverage and routine checkup participation.
 - **Key Technologies**: **Python**, **SQL**, **Power BI**
-- **Project Link**: [Insurance Coverage and Usage Analysis](https://github.com/BIAnalyst-Patrick/Insurance-Coverage-and-Usage-Report)
+- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/Insurance-Coverage-and-Usage-Report" target="_blank">Insurance Coverage and Usage Analysis</a>
 
 
 ---
@@ -160,16 +162,15 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 - **Action**: Performed a comprehensive financial analysis using **Excel** and **Power BI**, focusing on key metrics such as **net income**, **debt**, and **asset turnover**.
 - **Result**: Discovered a **59% increase in net income**, despite a **7.94% decline in revenue**. Provided strategic recommendations for **debt risk management** and improving **asset turnover**.
 - **Key Technologies**: **Excel**, **Power BI**, **Financial Analysis**
-- **Project Link**: [BMW's Financial Health: A Comprehensive Analysis](https://github.com/BIAnalyst-Patrick/BMW-s-Financial-Health)
-
+- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/BMW-s-Financial-Health" target="_blank">BMW's Financial Health: A Comprehensive Analysis</a>
 ---
 
 ## 📬 Connect with Me
 
 Feel free to reach out for collaborations or if you have any questions about my projects:
 
-- **Email**: [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com)
-- **LinkedIn**: [linkedin.com/in/patrick-gichuki-dataanalyst01](https://linkedin.com/in/patrick-gichuki-dataanalyst01)
-- **X (formerly Twitter)**: [@Bi_Analyst_1](https://x.com/Bi_Analyst_1)
+- **Email**: <a href="mailto:patrickgichuki2@gmail.com" target="_blank">patrickgichuki2@gmail.com</a>
+- **LinkedIn**: <a href="https://linkedin.com/in/patrick-gichuki-dataanalyst01" target="_blank">linkedin.com/in/patrick-gichuki-dataanalyst01</a>
+- **X (formerly Twitter)**: <a href="https://x.com/Bi_Analyst_1" target="_blank">@Bi_Analyst_1</a>
 
 Thanks for visiting my profile! I invite you to explore my repositories, and let’s connect to discuss how data can drive business success. 🚀
