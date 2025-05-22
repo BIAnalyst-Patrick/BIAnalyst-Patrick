@@ -115,6 +115,54 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 - **Ongoing Monitoring**: Develop a **marketing dashboard** to monitor the effectiveness of these recommended budget allocations and campaigns.
 
 
+Got it! Let's first draft the **Customer Churn Prediction** project description before adding it to the list in your README.
+
+---
+
+### **8. Customer Churn Prediction: Insights and Strategy**
+![Overview Page](https://github.com/user-attachments/assets/cc0bcae7-7047-4463-b9e1-6dddb22a7b22)
+
+![Prediction Page](https://github.com/user-attachments/assets/b54e1945-2552-4f34-9354-6b6a14883f3d)
+
+
+**Project Overview**: This project aimed to develop a predictive model for **customer churn** in the banking industry. The goal was to identify high-risk customers early and help the bank take proactive retention measures, particularly targeting **high-value customers** to minimize lost revenue.
+
+* **Problem**: The bank was experiencing high levels of customer churn, especially among its **high-value customers**. Despite an increasing customer base, there was no effective method for predicting which customers were likely to leave, resulting in lost revenue and inefficient retention strategies.
+* **Action**: The analysis was conducted on a dataset containing **10,000 bank customers**. The **Random Forest model** was used for churn prediction, with **SMOTE** applied to address the class imbalance. A **Streamlit web app** was built to allow real-time, interactive churn predictions for stakeholders.
+* **Result**: The **Random Forest model** achieved **84.67% accuracy** and provided actionable insights that helped the bank reduce churn. By targeting **high-balance customers**, the bank could potentially save **€1.5 million annually** by reducing churn in these valuable segments.
+* **Key Technologies**: **Python**, **Streamlit**, **Power BI**, **SMOTE**, **Random Forest**, **GridSearchCV**
+* **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/Customer-Churn-Prediction" target="_blank">Customer Churn Prediction</a>
+
+---
+
+### **Key Insights**:
+
+1. **High Churn in Middle-Aged Customers**: The **45-64 years** age group exhibited the highest churn rate. These customers are typically loyal, but proactive measures need to be taken to retain them.
+2. **Account Balance as a Strong Predictor**: Customers with account balances over **€200K** showed the highest churn probability, making them critical to target for retention campaigns.
+3. **Geographic Differences**: **Germany** showed higher churn rates than other countries, likely due to higher average account balances. **Localized retention strategies** in Germany could significantly reduce churn.
+
+---
+
+### **Strategic Recommendations**:
+
+1. **Target High-Balance Customers**: Focus on retaining **high-balance customers** (over **€200K**) as they represent the largest source of revenue. Tailored retention efforts could save the bank **€1.5 million annually**.
+2. **Middle-Aged Customers Retention**: Offer **personalized incentives** to customers in the **45-64 age group**, as they are most vulnerable to churn. A **5% reduction in churn** could save **€500,000 annually**.
+3. **Germany-Specific Campaigns**: Implement **Germany-focused** campaigns, particularly targeting **high-balance customers** who are at a higher risk of leaving. This could lead to an **8% churn reduction** in this region.
+4. **Refine Model Calibration**: Minimize **false positives** by improving model calibration, saving on unnecessary retention efforts. This could reduce **15% of retention-related costs**.
+5. **Real-Time Churn Prediction**: Deploy a **real-time churn prediction system** to engage at-risk customers early, improving retention and saving **€500,000** annually.
+
+---
+
+### **Next Steps**:
+
+1. **Incorporate Behavioral Data**: Add **transaction history** and **digital engagement data** to the model for better predictions.
+2. **Cost-Sensitive Learning**: Implement **cost-sensitive learning** techniques to reduce bias towards the majority class and improve overall accuracy.
+3. **Retrain Model Regularly**: Regularly update the model with **new data** to adapt to changing customer behavior and market conditions.
+4. **Localize Retention Strategies**: Focus on **high-risk regions** and tailor retention strategies accordingly, especially in countries like **Germany**.
+5. **Enhance Model Transparency**: Implement **SHAP** or **LIME** to increase model explainability and gain stakeholders' trust.
+
+---
+
 ### **1. INSURANCE COVERAGE AND USAGE ANALYSIS**
 
   ![Insurance_coverage_and_usage_dashboard](https://github.com/user-attachments/assets/c20e84d2-5e7a-4158-9ac7-62878c9a0660)
