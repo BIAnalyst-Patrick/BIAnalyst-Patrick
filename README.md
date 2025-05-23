@@ -132,6 +132,7 @@ Got it! Let's first draft the **Customer Churn Prediction** project description 
 * **Result**: The **Random Forest model** achieved **84.67% accuracy** and provided actionable insights that helped the bank reduce churn. By targeting **high-balance customers**, the bank could potentially save **€1.5 million annually** by reducing churn in these valuable segments.
 * **Key Technologies**: **Python**, **Streamlit**, **Power BI**, **SMOTE**, **Random Forest**, **GridSearchCV**
 * **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/Customer-Churn-Prediction" target="_blank">Customer Churn Prediction</a>
+* **Prediction App Link**: <a href="https://customer-churn-prediction-9xadjygpa4owqrdir7g3dm.streamlit.app/" target="_blank">Customer Churn Prediction App</a>
 
 ---
 
