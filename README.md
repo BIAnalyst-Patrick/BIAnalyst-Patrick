@@ -115,7 +115,6 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 - **Ongoing Monitoring**: Develop a **marketing dashboard** to monitor the effectiveness of these recommended budget allocations and campaigns.
 
 
-Got it! Let's first draft the **Customer Churn Prediction** project description before adding it to the list in your README.
 
 ---
 
@@ -222,4 +221,4 @@ Feel free to reach out for collaborations or if you have any questions about my 
 - **LinkedIn**: <a href="https://linkedin.com/in/patrick-gichuki-dataanalyst01" target="_blank">linkedin.com/in/patrick-gichuki-dataanalyst01</a>
 - **X (formerly Twitter)**: <a href="https://x.com/Bi_Analyst_1" target="_blank">@Bi_Analyst_1</a>
 
-Thanks for visiting my profile! I invite you to explore my repositories, and let’s connect to discuss how data can drive business success. 🚀
+Thanks for visiting my profile! let’s connect and drive business success through data. 🚀
