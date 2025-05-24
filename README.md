@@ -1,6 +1,6 @@
 # Patrick Gichuki - Data Analyst | Turning Data into Profitable Business Insights 👋
 
-Welcome to my GitHub profile! I am **Patrick Gichuki**, a **Data Analyst** with a strong foundation in **accounting** and a passion for transforming data into actionable insights that drive smarter business decisions. I specialize in **data visualization**, **predictive analytics**, and **advanced modeling**, using tools such as **Python**, **SQL**, **Power BI**, and **Excel**.
+Welcome to my GitHub profile! I am **Patrick Gichuki**, a **Data Analyst** with a strong foundation in **accounting** and a passion for transforming data into actionable insights that drive smarter business decisions. I specialize in **data analytics** **data visualization**, **predictive analytics**, and **advanced modeling**, using tools such as **Python**, **SQL**, **Power BI**, and **Excel**.
 
 With a mix of analytical rigor and business strategy, I bridge the gap between financial operations and data-driven decisions. My goal is to help businesses unlock the full potential of their data, turning insights into tangible, real-world results.
 
