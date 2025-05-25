@@ -217,7 +217,7 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 - **Problem**: Despite a healthy **overall win rate**, the **East region** was underperforming compared to other regions, leading to a sales gap.
 - **Action**: Analyzed sales data using **Power BI**, segmented by region, agent performance, and **product categories**. Created detailed visualizations and identified key factors affecting performance.
 - **Result**: Recommended strategies for boosting sales by **8%** in the next quarter, focusing on high-performing agents and targeting underperforming regions.
-- **Key Technologies**: **Power BI**, **Data Visualization**, **Excel**
+- **Key Technologies**: **SQL****Power BI**, **Data Visualization**
 - **Project Link**: [Sales Team & Product Performance Analysis](https://github.com/BIAnalyst-Patrick/SALES-TEAM-PRODUCT-PERFORMANCE-ANALYSIS)
 
 ---
