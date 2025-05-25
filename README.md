@@ -1,39 +1,48 @@
-# Patrick Gichuki - Data Analyst | Turning Data into Profitable Business Insights 👋
+# 🚀 Patrick Gichuki – Data Scientist  
+**Designing Intelligent Solutions That Deliver Business Impact**
 
-Welcome to my GitHub profile! I am **Patrick Gichuki**, a **Data Analyst** with a strong foundation in **accounting** and a passion for transforming data into actionable insights that drive smarter business decisions. I specialize in **data analytics** **data visualization**, **predictive analytics**, and **advanced modeling**, using tools such as **Python**, **SQL**, **Power BI**, and **Excel**.
+Welcome to my GitHub profile! I’m **Patrick Gichuki**, a **Data Scientist** with a strong foundation in analytics and accounting, passionate about building intelligent systems that solve real-world business problems.
 
-With a mix of analytical rigor and business strategy, I bridge the gap between financial operations and data-driven decisions. My goal is to help businesses unlock the full potential of their data, turning insights into tangible, real-world results.
-
----
-
-## 💼 How I Can Help You
-
-I provide **data-driven solutions** that create measurable impact for organizations, including:
-
-- **Optimizing Decision Making**: Using data to drive smarter decisions in **marketing**, **sales**, and **resource allocation**, directly boosting **profitability**.
-- **Building Business Intelligence**: Crafting interactive, dynamic **dashboards** using **Power BI** and **Excel** for **real-time performance tracking** and better decision-making.
-- **Forecasting Trends & Identifying Opportunities**: Applying **predictive analytics** and **statistical models** to forecast future trends, identify **market shifts**, and discover **growth opportunities**.
-- **Improving Operational Efficiency**: Streamlining workflows and ensuring **data cleanliness**, enabling teams to focus on strategy rather than managing data.
-
-By integrating my **accounting** experience with **data analysis**, I provide insights aligned with both **financial** and **business goals**.
+I specialize in **machine learning**, **predictive modeling**, and **end-to-end data science pipelines** that transform raw, messy data into **strategic insights and automated solutions**. My work bridges the gap between **technical innovation and business performance**, using tools like **Python**, **SQL**, **Power BI**, and **Streamlit** to deliver results that drive measurable growth and efficiency.
 
 ---
 
-## 🛠️ Skills
+## 💡 What I Do
 
-### Technical Skills:
-- **Excel**: Advanced financial modeling, **pivot tables**, and data analysis for clear reporting.
-- **SQL**: Expertise in **data extraction**, cleaning, and transformation for robust business insights.
-- **Python**: **Data analysis**, **statistical modeling**, and workflow automation using **Pandas**, **NumPy**, and **scikit-learn**.
-- **Power BI**: Designing interactive dashboards to turn data into intuitive **visualizations**.
+- 🔍 **Predictive Modeling & Machine Learning**  
+  I design, train, and deploy supervised learning models (e.g., classification, regression) to improve business forecasting, reduce churn, and optimize operations. My work includes data balancing (SMOTE), feature engineering, and model evaluation using real-world datasets.
 
-### Soft Skills:
-- **Critical Thinking**: Analyzing data for trends and opportunities that drive business improvement.
-- **Problem-Solving**: A structured, solution-focused approach to tackling data challenges.
-- **Communication**: Translating complex data into actionable insights for non-technical stakeholders.
-- **Attention to Detail**: Ensuring accuracy and precision in all data-related tasks.
-- **Collaboration**: Working seamlessly with cross-functional teams to tailor data solutions.
-- **Time Management**: Prioritizing tasks to meet deadlines while maintaining quality.
+- 📊 **Data Visualization & Business Intelligence**  
+  I create dynamic, interactive dashboards and analytical applications that turn complex datasets into clear, actionable visual stories. Tools include **Power BI**, **Streamlit**, and custom Python visualizations.
+
+- 🧠 **AI-Powered Automation & Data Mining**  
+  From text classification to sentiment analysis, I apply **NLP and AI-driven automation** to extract insights from unstructured data. I build end-to-end pipelines that include web scraping, TF-IDF vectorization, and real-time app deployment.
+
+- 📈 **Strategic Data Solutions**  
+  With experience in finance and operations, I design data products that align with key business KPIs. Whether it's uncovering market trends or informing decision strategies, I ensure that every analysis delivers actionable outcomes.
+
+---
+
+## 🛠️ Core Skill Set
+
+**Languages & Tools**  
+- Python: scikit-learn, Pandas, NumPy, Streamlit, Matplotlib, Seaborn  
+- SQL: Query optimization, data transformation, reporting  
+- Visualization: Power BI, Excel dashboards, interactive data apps  
+- ML Techniques: Classification, regression, feature selection, model deployment  
+- Data Mining: Web scraping, text processing, automated pipelines  
+
+**Professional Strengths**  
+- Problem Solving: Translating vague challenges into structured data questions  
+- Data Storytelling: Delivering insights clearly to both technical and non-technical audiences  
+- Business Acumen: Aligning technical work with financial goals and operational impact  
+- Process Ownership: Managing end-to-end workflows with an emphasis on reliability and clarity  
+
+---
+
+Explore my repositories to see how I apply data science to solve business problems through smart, well-structured, and production-ready solutions.
+
+**Let’s build intelligent systems that make data work smarter. 💡**
 
 ---
 
@@ -42,83 +51,7 @@ By integrating my **accounting** experience with **data analysis**, I provide in
 Explore the following projects that demonstrate my expertise in **data analysis**, **business intelligence**, and **predictive analytics**. Each project reflects my ability to apply **data-driven solutions** to **real-world business problems**, transforming insights into impactful results.
 
 ---
-
-### **5. E-commerce Order Analysis**
-
-![Dashboard](https://github.com/user-attachments/assets/8cc7600e-4dde-418c-8d9d-307d49fdb037)
-
-  
-**Project Overview**: This project analyzed **31,047 sales records** to uncover **customer behavior**, **regional sales performance**, and the impact of various sales channels on overall performance. The goal was to provide **data-driven recommendations** for marketing strategies and resource allocation.
-
-- **Problem**: Despite increased website traffic, the business was unable to identify which **customer segments**, **sales channels**, and **regions** were driving the most sales. It was unclear where to focus marketing resources to maximize ROI.
-- **Action**: Analyzed large datasets of sales and customer demographics using **Microsoft Excel**. Created a **comprehensive dashboard** that visualized key performance metrics such as **sales by region**, **customer demographics**, **sales trends**, and **operational efficiency**.
-- **Result**: Found that **64% of orders** came from **women**, with **Emerging Adults (18-34)** as the dominant customer group. The analysis also revealed that **Maharashtra and Karnataka** were the top-performing regions, and that the business had a **92% delivery success rate**, indicating strong operational performance.
-- **Key Technologies**: **Microsoft Excel**, **Pivot Tables**, **Data Visualization**, **Dashboard Creation**
-- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/E-commerce-Order-Analysis" target="_blank">E-commerce Order Analysis</a>
-
-
----
-
-### **Key Insights**:
-1. **Women Drive Sales**: **64% of the total orders** came from women. **Targeting this demographic** more aggressively could boost sales by **10%**.
-2. **Emerging Adults Are the Key Demographic**: **Emerging Adults (18-34)** accounted for **40%** of orders. **Targeting this segment** could lead to a **15% increase** in sales.
-3. **Top Regions**: **Maharashtra** and **Karnataka** had the highest sales volume. **Targeted regional promotions** in these areas could increase sales by **8%**.
-
----
-
-### **Recommendations & Business Impact**:
-1. **Focus on Women-Centric Marketing**: Women make up the majority of orders. Allocating more resources to **women-focused marketing campaigns** could yield **10% more sales**.
-2. **Leverage Social Media for Emerging Adults**: As the dominant customer segment, emerging adults should be targeted through **tailored promotions** and **loyalty programs**, potentially increasing sales by **15%**.
-3. **Regional Promotions in Top-Performing Areas**: Given the success in **Maharashtra** and **Karnataka**, focusing marketing campaigns on these regions can improve sales by **8%**.
-4. **Improving Operational Efficiency**: Ensure that the **92% delivery success rate** continues by optimizing logistics for underperforming regions.
-
----
-
-### **6. Campaign Analysis**
-
-![Marketing](https://github.com/user-attachments/assets/b4eb2ae2-c370-4713-9892-d7f19fc41573)
-
-    
-![signups and claims](https://github.com/user-attachments/assets/d9d1dca0-626d-4912-83a4-35a2b450bb86)
-
-
-**Project Overview**: This project involved an in-depth analysis of the performance of **57 marketing campaigns** from **2019 to 2023** to optimize **budget allocation** for the **2024 marketing campaigns**. The primary goal was to increase **signups** and raise **brand awareness** for Row Health.
-
-- **Problem**: Row Health was struggling to allocate its marketing budget efficiently. With a high volume of campaigns, it was unclear which **campaigns**, **channels**, and **customer segments** were most effective in driving **customer signups** and **brand awareness**.
-- **Action**: Analyzed campaign performance data using **Excel** for metric calculations, **BigQuery** for data cleaning, and created **interactive visualizations** in **Power BI**. Key performance metrics such as **signup rate**, **cost per signup**, **click-through rate (CTR)**, and **cost per impression** were examined.
-- **Result**: The analysis showed that **Health For All** and **Social Media** campaigns had the highest **signup rates** and the lowest **cost per signup**. The recommendations were to **shift the budget towards** these high-performing campaigns, especially by reallocating funds from less effective platforms like **TV**.
-- **Key Technologies**: **Excel**, **Power BI**, **BigQuery**, **Data Analysis**
-- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/Campaign-Analysis" target="_blank">Campaign Analysis</a>
-
-
----
-
-### **Key Insights**:
-1. **Health For All Campaigns Lead Signup Rates**: These campaigns achieved a **2.08% signup rate**, far outperforming other categories. **Prioritize these campaigns** for next year.
-2. **Cost-Effective Campaigns**: **Social Media** and **Coverage Matters** campaigns had the **lowest cost per signup**. **Reallocate the marketing budget** from **TV** to **social media** for a more **cost-efficient strategy**.
-3. **High CTR for Email Campaigns**: **Health For All** email campaigns had the **highest CTR** at **50%**, far above the industry average. This indicates that **email marketing** in this category should be **expanded**.
-4. **Expensive TV Campaigns**: Despite being a high-investment channel, **TV campaigns** were the most **expensive per signup**. A **shift towards digital media** is recommended for **better ROI**.
-
----
-
-### **Strategic Recommendations for Campaign Budget Allocation**:
-1. **Prioritize Health For All Campaigns**: Allocate more resources to **Health For All** campaigns, as they show the highest **signup rates** and **cost efficiency**.
-2. **Shift Budget from TV to Social Media**: **Social Media** campaigns perform better, with **15x more signups** than TV campaigns. Shift budget to maximize **digital media reach**.
-3. **Expand Email Campaigns**: Focus on **Health For All** email campaigns, which consistently outperform other email categories.
-4. **Improve Campaigns with Low CTR**: Investigate the **Golden Years Security** and **Family Coverage Plans** campaigns that showed low **CTR**. **Refine copywriting** and optimize **attribution** for better results.
-
----
-
-### **Next Steps**:
-- **Improve Data Quality**: Integrate **revenue data** to calculate **campaign ROI** and include **campaign dates** for better time-based segmentation.
-- **Customer-Specific Segmentation**: Add dimensions like **plan type** and **state** to further refine campaign recommendations.
-- **Ongoing Monitoring**: Develop a **marketing dashboard** to monitor the effectiveness of these recommended budget allocations and campaigns.
-
-
-
----
-
-### **8. Customer Churn Prediction: Insights and Strategy**
+### **1. Customer Churn Prediction: Insights and Strategy**
 ![Overview Page](https://github.com/user-attachments/assets/cc0bcae7-7047-4463-b9e1-6dddb22a7b22)
 
 ![Prediction Page](https://github.com/user-attachments/assets/b54e1945-2552-4f34-9354-6b6a14883f3d)
@@ -163,36 +96,77 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 
 ---
 
-### **1. INSURANCE COVERAGE AND USAGE ANALYSIS**
+### **2. E-commerce Order Analysis**
 
-  ![Insurance_coverage_and_usage_dashboard](https://github.com/user-attachments/assets/c20e84d2-5e7a-4158-9ac7-62878c9a0660)
+![Dashboard](https://github.com/user-attachments/assets/8cc7600e-4dde-418c-8d9d-307d49fdb037)
+
   
+**Project Overview**: This project analyzed **31,047 sales records** to uncover **customer behavior**, **regional sales performance**, and the impact of various sales channels on overall performance. The goal was to provide **data-driven recommendations** for marketing strategies and resource allocation.
 
-**Project Overview**: This project focused on identifying the disparities in **insurance coverage** and **healthcare usage** across different **demographic** groups. 
-
-- **Problem**: **Income levels** significantly impacted the extent of **insurance coverage** and the **frequency of routine checkups**, especially in lower-income groups.
-- **Action**: Cleaned and analyzed a dataset of 6,158 records using **Python** (Pandas), and **SQL** for data manipulation. Created interactive dashboards in **Power BI** to visualize trends and correlations.
-- **Result**: Provided insights revealing that **58.8% of the population** was insured, but significant gaps existed, particularly for lower-income individuals. Recommendations were made to improve insurance coverage and routine checkup participation.
-- **Key Technologies**: **Python**, **SQL**, **Power BI**
-- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/Insurance-Coverage-and-Usage-Report" target="_blank">Insurance Coverage and Usage Analysis</a>
+- **Problem**: Despite increased website traffic, the business was unable to identify which **customer segments**, **sales channels**, and **regions** were driving the most sales. It was unclear where to focus marketing resources to maximize ROI.
+- **Action**: Analyzed large datasets of sales and customer demographics using **Microsoft Excel**. Created a **comprehensive dashboard** that visualized key performance metrics such as **sales by region**, **customer demographics**, **sales trends**, and **operational efficiency**.
+- **Result**: Found that **64% of orders** came from **women**, with **Emerging Adults (18-34)** as the dominant customer group. The analysis also revealed that **Maharashtra and Karnataka** were the top-performing regions, and that the business had a **92% delivery success rate**, indicating strong operational performance.
+- **Key Technologies**: **Microsoft Excel**, **Pivot Tables**, **Data Visualization**, **Dashboard Creation**
+- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/E-commerce-Order-Analysis" target="_blank">E-commerce Order Analysis</a>
 
 
 ---
 
-### **2. Sales Team & Product Performance Analysis**
-
-  ![dashboard](https://github.com/user-attachments/assets/f7ca4540-666c-4767-8656-5c1d55041c85)
-
-
-**Project Overview**: This project analyzed **sales performance** across regions, with a specific focus on improving the performance of the **East region**.
-
-- **Problem**: Despite a healthy **overall win rate**, the **East region** was underperforming compared to other regions, leading to a sales gap.
-- **Action**: Analyzed sales data using **Power BI**, segmented by region, agent performance, and **product categories**. Created detailed visualizations and identified key factors affecting performance.
-- **Result**: Recommended strategies for boosting sales by **8%** in the next quarter, focusing on high-performing agents and targeting underperforming regions.
-- **Key Technologies**: **Power BI**, **Data Visualization**, **Excel**
-- **Project Link**: [Sales Team & Product Performance Analysis](https://github.com/BIAnalyst-Patrick/SALES-TEAM-PRODUCT-PERFORMANCE-ANALYSIS)
+### **Key Insights**:
+1. **Women Drive Sales**: **64% of the total orders** came from women. **Targeting this demographic** more aggressively could boost sales by **10%**.
+2. **Emerging Adults Are the Key Demographic**: **Emerging Adults (18-34)** accounted for **40%** of orders. **Targeting this segment** could lead to a **15% increase** in sales.
+3. **Top Regions**: **Maharashtra** and **Karnataka** had the highest sales volume. **Targeted regional promotions** in these areas could increase sales by **8%**.
 
 ---
+
+### **Recommendations & Business Impact**:
+1. **Focus on Women-Centric Marketing**: Women make up the majority of orders. Allocating more resources to **women-focused marketing campaigns** could yield **10% more sales**.
+2. **Leverage Social Media for Emerging Adults**: As the dominant customer segment, emerging adults should be targeted through **tailored promotions** and **loyalty programs**, potentially increasing sales by **15%**.
+3. **Regional Promotions in Top-Performing Areas**: Given the success in **Maharashtra** and **Karnataka**, focusing marketing campaigns on these regions can improve sales by **8%**.
+4. **Improving Operational Efficiency**: Ensure that the **92% delivery success rate** continues by optimizing logistics for underperforming regions.
+
+---
+
+### **3. Campaign Analysis**
+
+![Marketing](https://github.com/user-attachments/assets/b4eb2ae2-c370-4713-9892-d7f19fc41573)
+
+    
+![signups and claims](https://github.com/user-attachments/assets/d9d1dca0-626d-4912-83a4-35a2b450bb86)
+
+
+**Project Overview**: This project involved an in-depth analysis of the performance of **57 marketing campaigns** from **2019 to 2023** to optimize **budget allocation** for the **2024 marketing campaigns**. The primary goal was to increase **signups** and raise **brand awareness** for Row Health.
+
+- **Problem**: Row Health was struggling to allocate its marketing budget efficiently. With a high volume of campaigns, it was unclear which **campaigns**, **channels**, and **customer segments** were most effective in driving **customer signups** and **brand awareness**.
+- **Action**: Analyzed campaign performance data using **Excel** for metric calculations, **BigQuery** for data cleaning, and created **interactive visualizations** in **Power BI**. Key performance metrics such as **signup rate**, **cost per signup**, **click-through rate (CTR)**, and **cost per impression** were examined.
+- **Result**: The analysis showed that **Health For All** and **Social Media** campaigns had the highest **signup rates** and the lowest **cost per signup**. The recommendations were to **shift the budget towards** these high-performing campaigns, especially by reallocating funds from less effective platforms like **TV**.
+- **Key Technologies**: **Excel**, **Power BI**, **BigQuery**, **Data Analysis**
+- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/Campaign-Analysis" target="_blank">Campaign Analysis</a>
+
+
+---
+
+### **Key Insights**:
+1. **Health For All Campaigns Lead Signup Rates**: These campaigns achieved a **2.08% signup rate**, far outperforming other categories. **Prioritize these campaigns** for next year.
+2. **Cost-Effective Campaigns**: **Social Media** and **Coverage Matters** campaigns had the **lowest cost per signup**. **Reallocate the marketing budget** from **TV** to **social media** for a more **cost-efficient strategy**.
+3. **High CTR for Email Campaigns**: **Health For All** email campaigns had the **highest CTR** at **50%**, far above the industry average. This indicates that **email marketing** in this category should be **expanded**.
+4. **Expensive TV Campaigns**: Despite being a high-investment channel, **TV campaigns** were the most **expensive per signup**. A **shift towards digital media** is recommended for **better ROI**.
+
+---
+
+### **Strategic Recommendations for Campaign Budget Allocation**:
+1. **Prioritize Health For All Campaigns**: Allocate more resources to **Health For All** campaigns, as they show the highest **signup rates** and **cost efficiency**.
+2. **Shift Budget from TV to Social Media**: **Social Media** campaigns perform better, with **15x more signups** than TV campaigns. Shift budget to maximize **digital media reach**.
+3. **Expand Email Campaigns**: Focus on **Health For All** email campaigns, which consistently outperform other email categories.
+4. **Improve Campaigns with Low CTR**: Investigate the **Golden Years Security** and **Family Coverage Plans** campaigns that showed low **CTR**. **Refine copywriting** and optimize **attribution** for better results.
+
+---
+
+### **Next Steps**:
+- **Improve Data Quality**: Integrate **revenue data** to calculate **campaign ROI** and include **campaign dates** for better time-based segmentation.
+- **Customer-Specific Segmentation**: Add dimensions like **plan type** and **state** to further refine campaign recommendations.
+- **Ongoing Monitoring**: Develop a **marketing dashboard** to monitor the effectiveness of these recommended budget allocations and campaigns.
+
 
 ### **4. BMW’s Financial Health: A Comprehensive Analysis of Profit, Risk, and Growth**
 
@@ -212,6 +186,43 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 - **Key Technologies**: **Excel**, **Power BI**, **Financial Analysis**
 - **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/BMW-s-Financial-Health" target="_blank">BMW's Financial Health: A Comprehensive Analysis</a>
 ---
+
+---
+
+
+
+### **5. INSURANCE COVERAGE AND USAGE ANALYSIS**
+
+  ![Insurance_coverage_and_usage_dashboard](https://github.com/user-attachments/assets/c20e84d2-5e7a-4158-9ac7-62878c9a0660)
+  
+
+**Project Overview**: This project focused on identifying the disparities in **insurance coverage** and **healthcare usage** across different **demographic** groups. 
+
+- **Problem**: **Income levels** significantly impacted the extent of **insurance coverage** and the **frequency of routine checkups**, especially in lower-income groups.
+- **Action**: Cleaned and analyzed a dataset of 6,158 records using **Python** (Pandas), and **SQL** for data manipulation. Created interactive dashboards in **Power BI** to visualize trends and correlations.
+- **Result**: Provided insights revealing that **58.8% of the population** was insured, but significant gaps existed, particularly for lower-income individuals. Recommendations were made to improve insurance coverage and routine checkup participation.
+- **Key Technologies**: **Python**, **SQL**, **Power BI**
+- **Project Link**: <a href="https://github.com/BIAnalyst-Patrick/Insurance-Coverage-and-Usage-Report" target="_blank">Insurance Coverage and Usage Analysis</a>
+
+
+---
+
+### **6. Sales Team & Product Performance Analysis**
+
+  ![dashboard](https://github.com/user-attachments/assets/f7ca4540-666c-4767-8656-5c1d55041c85)
+
+
+**Project Overview**: This project analyzed **sales performance** across regions, with a specific focus on improving the performance of the **East region**.
+
+- **Problem**: Despite a healthy **overall win rate**, the **East region** was underperforming compared to other regions, leading to a sales gap.
+- **Action**: Analyzed sales data using **Power BI**, segmented by region, agent performance, and **product categories**. Created detailed visualizations and identified key factors affecting performance.
+- **Result**: Recommended strategies for boosting sales by **8%** in the next quarter, focusing on high-performing agents and targeting underperforming regions.
+- **Key Technologies**: **Power BI**, **Data Visualization**, **Excel**
+- **Project Link**: [Sales Team & Product Performance Analysis](https://github.com/BIAnalyst-Patrick/SALES-TEAM-PRODUCT-PERFORMANCE-ANALYSIS)
+
+---
+
+
 
 ## 📬 Connect with Me
 
