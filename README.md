@@ -97,6 +97,10 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 ---
 
 # A/B Testing Analysis: CTA Button Optimization
+![image](https://github.com/user-attachments/assets/11494be9-7563-48e5-a3e1-445368f9d8c8)
+
+![image](https://github.com/user-attachments/assets/154d81c5-269c-4006-b550-92254ed9cacd)
+
 
 **Project Overview**: This project conducted a **randomized controlled experiment** on **20,000 users** to test whether a new Call-to-Action (CTA) button design would improve user engagement compared to the current design. The goal was to provide **statistically rigorous evidence** for business decision-making and optimize conversion rates through **data-driven experimentation**. This project demonstrates **enterprise-level A/B testing methodology** used by companies like Google, Meta, and Netflix.
 
@@ -135,6 +139,8 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 4. **Advanced Performance Monitoring**: Implement **real-time dashboards** with **statistical process control** to track sustained improvement over **3-6 months**, detect any **novelty effect degradation**, and maintain **performance alert systems**.
 
 5. **Strategic Segmentation & Personalization**: Conduct **follow-up cohort analysis** by **device type** (mobile vs desktop), **user demographics**, **acquisition channel**, and **behavioral segments** to identify **micro-optimization opportunities** and **personalization strategies**.
+
+---
 
 **Business Impact Potential**: **207% improvement** in engagement translates to **projected $1.48M annual revenue increase** (based on conservative conversion assumptions), with **99.9%+ statistical confidence** and **near-zero implementation risk**. This single optimization could **pay for an entire analytics team** while establishing **data-driven culture** across the organization.
 
