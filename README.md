@@ -112,7 +112,7 @@ Explore the following projects that demonstrate my expertise in **data analysis*
 
 * **Key Technologies**: **Python**, **pandas**, **NumPy**, **SciPy**, **Statistical Hypothesis Testing**, **Power Analysis**, **A/B Testing Framework**, **Data Visualization (Matplotlib/Seaborn)**
 
-* **Project Link**: [Full Technical Report](link-to-detailed-report)
+* **Project Link**: [Full Report](https://github.com/BIAnalyst-Patrick/A-B-Test-on-CTA-Button-Optimization/tree/main)
 
 ---
 
