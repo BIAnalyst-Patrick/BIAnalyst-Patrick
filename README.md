@@ -6,10 +6,6 @@ I’m a **Data Scientist and Business Analyst with a strong accounting backgroun
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BIAnalyst-Patrick\&show_icons=true\&theme=default\&hide_title=true)
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
