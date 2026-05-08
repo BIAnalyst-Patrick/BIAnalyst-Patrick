@@ -1,4 +1,4 @@
-# 🚀 Patrick Mwangi Gichuki — Data Scientist & Business Analyst
+# Patrick Mwangi Gichuki — Data Scientist & Business Analyst
 
 **Turning Data into Business Decisions & Intelligent Systems**
 
