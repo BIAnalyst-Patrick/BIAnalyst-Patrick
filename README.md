@@ -1,71 +1,36 @@
-# Patrick Mwangi Gichuki — Data Scientist & Business Analyst
+# Patrick Gichuki — Business Intelligence & Data Analyst
 
-**Turning Data into Business Decisions & Intelligent Systems**
+**7+ years in accounting, now in Power BI, SQL & Python.** I build dashboards, reports, and forecasting models that tell a business exactly what to do next — not just what happened.
 
-I’m a **Data Scientist and Business Analyst with a strong accounting background**, specializing in **SQL, Python, and Power BI** to build **decision-ready analytics, predictive models, and executive dashboards** that drive **profitability, growth, and operational efficiency**.
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![SQL](https://img.shields.io/badge/SQL-Advanced-success)
-![Power BI](https://img.shields.io/badge/PowerBI-Advanced-yellow)
-![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-orange)
-![Docker](https://img.shields.io/badge/Docker-Working%20Knowledge-blue)
+Freelancing through **Sting Analytics** (Fiverr/Upwork) · Open to remote BI/Data Analyst roles · Based in Nairobi, Kenya
 
 ---
 
-## ⭐ Featured Projects
+## Tech Stack
 
-### 🔹 Executive KPI Dashboard – 2025 Business Performance (Power BI)
-
-![Executive Dashboard](https://github.com/user-attachments/assets/93f3dd4d-ed71-460f-8580-89118719c3e8)
-
-**CEO-level analytics dashboard delivering strategic performance insights.**
-
-* Analyzed **$1.75M revenue & 16.4% margin**
-* Identified **margin compression & growth risks**
-* Delivered **strategic recommendations for 2026 profitability**
-
-**Skills:** Power BI • KPI Design • Business Analysis • Financial Analytics
-🔗 Repo: *(Add repo link)*
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20scikit--learn-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoftexcel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
 
-### 🔹 SQL Business Analysis – Sales Trends & Growth Opportunities
+## Featured Work
 
-**Business-driven SQL case study answering executive performance questions.**
+| Project | Business Question | Result |
+|---|---|---|
+| [Executive KPI & Margin Dashboard](https://github.com/BIAnalyst-Patrick/Business-Performance) | How is the business performing against its core KPIs? | $1.75M revenue tracked, 16.4% margin surfaced, margin-compression risk flagged before Q1 |
+| [Sales Team & Product Performance](https://github.com/BIAnalyst-Patrick/SALES-TEAM-PRODUCT-PERFORMANCE-ANALYSIS) | Why was one region $500K behind another? | Root-caused across ~9,000 deals, 8% revenue-recovery plan |
+| [Customer Churn Prediction](https://github.com/BIAnalyst-Patrick/Customer-Churn-Prediction) | Which customers are about to leave, and why? | 84.7% accuracy, €1.5M at-risk balance flagged, live Streamlit app |
+| [Sales Forecasting (SARIMA & Prophet)](https://github.com/BIAnalyst-Patrick/Sales-Forecasting-SARIMA-Prophet) | How much inventory is needed next quarter? | Dual-model forecast, 2,400–2,600 unit planning range |
+| [BMW Financial Health Analysis](https://github.com/BIAnalyst-Patrick/BMW-s-Financial-Health) | Is profitability holding up under revenue pressure? | +59% net income despite -8% revenue, 2017–2024 |
+| [E-commerce Order Analysis](https://github.com/BIAnalyst-Patrick/E-commerce-Order-Analysis) | Why is growth inconsistent despite rising traffic? | 31K orders analyzed, 60% revenue concentration in 2 channels identified |
 
-* Built **KPI frameworks directly in SQL**
-* Delivered **strategic insights & business recommendations**
-
-**Skills:** SQL • Business Intelligence • KPI Analysis • Reporting
-🔗 Repo: *(Add repo link)*
-
----
-
-### 🔹 Customer Churn Prediction System (Python + ML + Streamlit)
-
-**Machine learning system predicting high-risk customers with 84.7% accuracy.**
-
-* Built **Random Forest churn model**
-* Developed **real-time prediction app**
-* Identified **€1.5M annual savings opportunity**
-
-**Skills:** Python • Machine Learning • Streamlit • Business Analytics
-🔗 Repo: [https://github.com/BIAnalyst-Patrick/Customer-Churn-Prediction](https://github.com/BIAnalyst-Patrick/Customer-Churn-Prediction)
+Each repo's README is written as a standalone business report — problem, approach, findings, and recommendations, not just code.
 
 ---
 
-## 📬 Connect
+## Connect
 
-📧 [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com)
-🌐 gichuki.site
-💼 linkedin.com/in/patrick-gichuki-datascientist
-
----
-
-> **I build analytics systems that help businesses understand their data, optimize performance, and scale intelligently.**
-
+[gichuki.site](https://gichuki.site) · [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/patrick-gichuki-datascientist)
