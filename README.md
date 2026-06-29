@@ -33,4 +33,4 @@ Each repo's README is written as a standalone business report — problem, appro
 
 ## Connect
 
-[gichuki.site](https://gichuki.site) · [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/patrick-gichuki-datascientist)
+[gichuki.site](https://gichuki.site) · [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
