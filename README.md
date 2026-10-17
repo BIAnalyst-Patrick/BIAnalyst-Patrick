@@ -47,17 +47,17 @@ performance — the sales, margin and cash questions their owners actually decid
 
 | Project | Business question | Result |
 |---|---|---|
+| [Receivables & Cash Conversion Diagnostic](https://github.com/BIAnalyst-Patrick/receivables-ageing-cash-conversion) | Cash is stuck even though revenue is fine. Which accounts are holding it, and what is actually collectible? | Ageing, DSO, best-possible DSO, collection effectiveness, a CCC with inventory and payables legs and an IFRS 9-shaped provision on KES 16.8M of receivables: 64% past due, **three accounts carry 47% of it**, 6.73M recoverable, 15/15 independent checks |
 | [Revenue Decline Diagnostic](https://github.com/BIAnalyst-Patrick/revenue-decline-diagnostic) | Revenue fell 10.7%. Where did it come from, and who owns each cause? | Traced to two of six stores (71% of the decline) and four ranked problems, each with an owner and an expected recovery; the pipeline is graded 14/14 against a sealed answer key |
 | [Executive KPI & Margin Dashboard](https://github.com/BIAnalyst-Patrick/Business-Performance) | How is the business performing against its core KPIs? | $1.75M revenue tracked, 16.4% margin surfaced, margin-compression risk flagged before Q1 |
 | [Customer Retention & RFM Segmentation (SQL)](https://github.com/BIAnalyst-Patrick/SQL-Customer-Retention-RFM-Analysis) | Which customers actually drive revenue, and who is at risk of churning? | Pure SQL (CTEs, window functions): 9.6% of customers drive 19.4% of revenue; 1,255 churn-risk flags |
 | [Sales Team & Product Performance](https://github.com/BIAnalyst-Patrick/SALES-TEAM-PRODUCT-PERFORMANCE-ANALYSIS) | Why was one region $500K behind another? | Root-caused across ~9,000 deals, 8% revenue-recovery plan |
 | [Customer Churn Prediction](https://github.com/BIAnalyst-Patrick/Customer-Churn-Prediction) | Which customers are about to leave, and why? | 84.7% accuracy, €1.5M at-risk balance flagged, live Streamlit app |
 | [Retail Demand Forecasting](https://github.com/BIAnalyst-Patrick/Retail-Demand-Forecasting) | Which forecasting method actually performs best on this data, not just which one we assumed would? | 4-model bake-off (Naive, Holt-Winters, SARIMA, Prophet); Prophet won at 6.88% MAPE |
-| [BMW Financial Health Analysis](https://github.com/BIAnalyst-Patrick/BMW-s-Financial-Health) | Is profitability holding up under revenue pressure? | +59% net income despite -8% revenue, 2017–2024 |
 
 Each repo's README is written as a standalone business report: the problem, the approach, the findings, and recommendations with an owner, not just code.
 
-Every Result above is what the analysis produced on that project's own dataset, not a measured business outcome. The Revenue Decline Diagnostic is a simulated case study and says so on its first line.
+Every Result above is what the analysis produced on that project's own dataset, not a measured business outcome. The Revenue Decline and Receivables diagnostics are **simulated case studies** and say so on their first line; the receivables figures are synthetic and no client outcome is implied.
 
 ## Client work
 
