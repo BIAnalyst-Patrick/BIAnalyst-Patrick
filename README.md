@@ -10,7 +10,7 @@ for each recommendation.
 **Open to remote BI / Data Analyst roles.** Based in Nairobi, Kenya (EAT, UTC+3).
 Freelance BI analyst, operating as **Sting Analytics** on Fiverr and Upwork.
 
-[gichuki.site](https://gichuki.site) · [LinkedIn](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst) · [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com)
+[GitHub](https://github.com/BIAnalyst-Patrick) · [LinkedIn](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst) · [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com)
 
 ---
 
@@ -23,6 +23,9 @@ Freelance BI analyst, operating as **Sting Analytics** on Fiverr and Upwork.
 ---
 
 ## How I work
+
+I work with **retailers, wholesalers and SMEs** on sales and financial
+performance — the sales, margin and cash questions their owners actually decide on.
 
 - **Find the cause, not the chart.** Every analysis starts from a decision, then
   decomposes the movement by store, category and segment to find where it sits.
@@ -56,10 +59,19 @@ Each repo's README is written as a standalone business report: the problem, the 
 
 Every Result above is what the analysis produced on that project's own dataset, not a measured business outcome. The Revenue Decline Diagnostic is a simulated case study and says so on its first line.
 
+## Client work
+
+**Fort Beauty** — inventory, sales and profitability system for a multi-store beauty
+retailer (code private; walkthrough on request). The business ran an offline POS with no
+consolidated view, so I built the layer around it: a Python import pipeline covering four
+raw POS export formats with duplicate protection, a PostgreSQL/Supabase schema with a full
+stock ledger and approval workflow, and a Next.js dashboard for profitability,
+fast/slow/dead stock and stock reconciliation.
+
 ---
 
 ## Connect
 
-[gichuki.site](https://gichuki.site) · [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
+[GitHub](https://github.com/BIAnalyst-Patrick) · [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
 
 Available for remote BI / Data Analyst roles. Nairobi, Kenya (EAT, UTC+3).
