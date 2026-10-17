@@ -48,6 +48,7 @@ performance — the sales, margin and cash questions their owners actually decid
 | Project | Business question | Result |
 |---|---|---|
 | [Receivables & Cash Conversion Diagnostic](https://github.com/BIAnalyst-Patrick/receivables-ageing-cash-conversion) | Cash is stuck even though revenue is fine. Which accounts are holding it, and what is actually collectible? | Ageing, DSO, best-possible DSO, collection effectiveness, a CCC with inventory and payables legs and an IFRS 9-shaped provision on KES 16.8M of receivables: 64% past due, **three accounts carry 47% of it**, 6.73M recoverable, 15/15 independent checks |
+| [Monthly Management Pack](https://github.com/BIAnalyst-Patrick/monthly-management-pack) | Sales are within 1% of budget and gross profit is 19% behind it. Where did the profit go, and who owns it? | A flexed budget and an exact gross-profit bridge: revenue -0.74% against gross profit -19.38%, split into price -41,943.76, cost -26,053.41, mix -14,164.16 and volume **+8,755.42** - the business sold more units and kept less of the money; 15/15 independent checks |
 | [Revenue Decline Diagnostic](https://github.com/BIAnalyst-Patrick/revenue-decline-diagnostic) | Revenue fell 10.7%. Where did it come from, and who owns each cause? | Traced to two of six stores (71% of the decline) and four ranked problems, each with an owner and an expected recovery; the pipeline is graded 14/14 against a sealed answer key |
 | [Executive KPI & Margin Dashboard](https://github.com/BIAnalyst-Patrick/Business-Performance) | How is the business performing against its core KPIs? | $1.75M revenue tracked, 16.4% margin surfaced, margin-compression risk flagged before Q1 |
 | [Customer Retention & RFM Segmentation (SQL)](https://github.com/BIAnalyst-Patrick/SQL-Customer-Retention-RFM-Analysis) | Which customers actually drive revenue, and who is at risk of churning? | Pure SQL (CTEs, window functions): 9.6% of customers drive 19.4% of revenue; 1,255 churn-risk flags |
@@ -57,7 +58,7 @@ performance — the sales, margin and cash questions their owners actually decid
 
 Each repo's README is written as a standalone business report: the problem, the approach, the findings, and recommendations with an owner, not just code.
 
-Every Result above is what the analysis produced on that project's own dataset, not a measured business outcome. The Revenue Decline and Receivables diagnostics are **simulated case studies** and say so on their first line; the receivables figures are synthetic and no client outcome is implied.
+Every Result above is what the analysis produced on that project's own dataset, not a measured business outcome. The Revenue Decline, Receivables and Monthly Management Pack projects are **simulated case studies** and say so on their first line; their figures are synthetic and no client outcome is implied.
 
 ## Client work
 
