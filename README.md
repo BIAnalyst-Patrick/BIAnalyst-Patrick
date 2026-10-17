@@ -8,7 +8,7 @@ document: a governing question, the decomposition behind the answer, and an owne
 for each recommendation.
 
 **Open to remote BI / Data Analyst roles.** Based in Nairobi, Kenya (EAT, UTC+3).
-Freelance BI analyst, operating as **Sting Analytics** on Fiverr and Upwork.
+Freelance BI analyst, operating as **Sting Analytics** on [Fiverr](https://www.fiverr.com/s/yeeBkdb) and [Upwork](https://www.upwork.com/freelancers/~010f6baf1381a75e45).
 
 [GitHub](https://github.com/BIAnalyst-Patrick) · [LinkedIn](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst) · [patrickgichuki2@gmail.com](mailto:patrickgichuki2@gmail.com)
 
